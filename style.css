@@ -2,12 +2,7 @@ body{
   background-color: rgb(220, 234, 244);
   font-family: 'Inconsolata', monospace;
 
-  background: rgb(0, 50, 255);
-  background: -moz-linear-gradient(42deg, rgb(0, 50, 255) 0%, rgb(221, 246, 255) 49%);
-  background: -webkit-linear-gradient(42deg, rgb(0, 50, 255) 0%, rgb(221, 246, 255) 49%);
-  background: -o-linear-gradient(42deg, rgb(0, 50, 255) 0%, rgb(221, 246, 255) 49%);
-  background: -ms-linear-gradient(42deg, rgb(0, 50, 255) 0%, rgb(221, 246, 255) 49%);
-  background: linear-gradient(132deg, rgb(0, 50, 255) 0%, rgb(221, 246, 255) 49%);
+  background: white;
 }
 .poczatek{
 margin-top: 4rem;
